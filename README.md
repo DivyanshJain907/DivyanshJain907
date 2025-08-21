@@ -1,38 +1,66 @@
 # 👋 Hi, I'm Divyansh Jain  
 
-🎓 Final-year student at Bennett University | 💻 Aspiring Developer & Tech Enthusiast  
-🚀 Passionate about **Web Development, UI/UX Designer, and Problem Solving**  
+🚀 Passionate about **Frontend Development, UI/UX Design, and Problem Solving**.  
+I love building clean, user-friendly web applications and designing sleek interfaces.  
 
 ---
 
-## 🔧 Skills & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+## 🧑‍💻 About Me  
+- 🎓 Student at Bennett University  
+- 💡 Exploring **Full-Stack Development & System Design**  
+- 🎯 Goal: To build impactful software and scalable startups  
+- 🌱 Currently learning: **React, Node.js, and Cloud**  
+
+---
+
+## 🛠️ Skills  
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
+---
+
+## 📂 Featured Projects  
+
+Here are some of my works 👇 (replace with your GitHub repos):  
+
+### 🚗 Wheel-o-Rent  
+> A car rental platform where users can rent vehicles seamlessly.  
+🔗 [View Repo](https://github.com/DivyanshJain907/Wheel-o-Rent)  
+
+### 📊 AI-Powered-Resume-Analyzer 
+> AI-Powered Resume Analyzer is an intelligent web application that helps job seekers evaluate their resumes using machine learning and natural language processing.  
+🔗 [View Repo](https://github.com/DivyanshJain907/AI-Powered-Resume-Analyzer)  
+
+### 🛌 My_Portfolio  
+> I'm a passionate developer focused on building beautiful, functional, and responsive web apps using modern tech like Next.js, Tailwind CSS, and React.
+🔗 [View Repo](https://github.com/DivyanshJain907/My_Portfolio)  
+
+### 🏥 Color-store
+>  A Modern Color-Themed Shopping Experience Color Store is a sleek and dynamic e-commerce web application built with Next.js.
+🔗 [View Repo](https://github.com/DivyanshJain907/Color-store)  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshJain907&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshJain907&theme=tokyonight" alt="streak" height="180"/>
-</p>  
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-jain907"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:divyanshjain907@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyanshJain907&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshJain907&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshJain907&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*  
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshjain0907/)  
+- 🌍 [Portfolio Website](https://divyanshjainportfolio.vercel.app/)
+- 🐙 [GitHub](https://github.com/DivyanshJain907)  
+
+---
+⭐️ _Always excited to collaborate and learn new things!_
