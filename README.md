@@ -33,13 +33,6 @@
 
 ---
 
-### 🔝 Most Used Languages  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshJain907&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 ### 🌍 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyanshJain907)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshjain0907/)  
