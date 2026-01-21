@@ -9,8 +9,6 @@
 </p>
 
 ---
-<iframe src="https://github.com/sponsors/DivyanshJain907/card" title="Sponsor DivyanshJain907" height="225" width="600" style="border: 0;"></iframe>
-
 
 ### 🙋 About Me  
 - 🔭 Currently working on **Web Development Projects**  
