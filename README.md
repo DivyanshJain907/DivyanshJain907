@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1a1a,100:ff4d4d&text=Divyansh%20Jain&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40" />
 </p>
 
-<!-- Typing Animation with Titles -->
+<!-- Typing Animation Titles -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Frontend+%26+Backend+Enthusiast;Tech+Explorer;Keep+Learning+Keep+Building+🚀" />
 </p>
